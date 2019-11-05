@@ -3,7 +3,7 @@
 [![Latest Stable Version](https://poser.pugx.org/flexphp/messages/v/stable)](https://packagist.org/packages/flexphp/messages)
 [![Total Downloads](https://poser.pugx.org/flexphp/messages/downloads)](https://packagist.org/packages/flexphp/messages)
 [![Latest Unstable Version](https://poser.pugx.org/flexphp/messages/v/unstable)](https://packagist.org/packages/flexphp/messages)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/flexphp/messages/badges/quality-score.png)](https://scrutinizer-ci.com/g/flexphp/messages)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/flexphp/messages/badges/quality-score.png)](https://scrutinizer-ci.com/g/flexphp/flex-messages)
 [![License](https://poser.pugx.org/flexphp/messages/license)](https://packagist.org/packages/flexphp/messages)
 [![composer.lock](https://poser.pugx.org/flexphp/messages/composerlock)](https://packagist.org/packages/flexphp/messages)
 
