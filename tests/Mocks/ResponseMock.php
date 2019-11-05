@@ -10,8 +10,4 @@ use FlexPHP\Messages\ResponseInterface;
  */
 class ResponseMock implements ResponseInterface
 {
-    public function response()
-    {
-        return [];
-    }
 }
